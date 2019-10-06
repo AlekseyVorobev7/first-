@@ -1,8 +1,13 @@
 header{
     width: 1400px;
     height: 72px;
+    background: url(/img/Logo.png);
     background-color: #000000;
 }
 * {
     margin: 0px;
+}
+.pnges{
+    width: 79px;
+    height: 27px;
 }
